@@ -1,0 +1,92 @@
+body{
+	padding-top: 0px;
+}
+.wrapper {
+	display: block;
+	width: 960px;
+	margin: 0 auto;
+	background: #191970;	
+}
+
+.header {
+	height: 60px;
+	background: #FFD700;
+	margin: 0 auto;
+	border: none;
+}
+h1 {
+	font-family: "Orbitron", serif;
+	font-size: 40px;
+	height: 60px;
+	background: #FFD700;
+	border: 0;
+	color: #F5F5F5;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.intro {
+	display: inline-block;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 24px;
+	background: #FFD700;
+	float: left;
+	padding:0px 15px 10px 0px;
+}
+
+.intro img {
+	position: relative;
+	width:300px;
+	float: left;
+	padding:25px 10px 75px 10px;
+	margin:20px;
+
+}
+
+.intro p {
+	position: relative;
+
+}
+.afterintro {
+	clear: left;	
+}
+
+.programming p {
+	height: 100px;
+	font-family: "Orbitron", serif;
+	font-size: 30px;
+	color: #F5F5F5;
+	background: #191970;
+	text-align: center;
+	border:0px;
+	padding:10px;
+}
+
+.programming img {
+	display: inline-block;
+	border: 0;
+	padding: 10px;
+	margin: 10px;
+	max-width: 320px;
+	max-height: 250px;
+	right: 20px;
+}
+
+.extras {
+	background: #FF0000;
+}
+.extras p {
+	
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 26px;
+	text-align: center;
+	padding:10px 20px 15px 20px;
+	
+}
+.extras iframe {
+	display: block;
+	margin: 0 auto;
+	max-width: 900px;
+	max-height: 400px;
+	padding-bottom: 25px;
+}
